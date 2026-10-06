@@ -44,7 +44,7 @@ Roughly in order of how well I know them:
 - **[notGT](https://github.com/fursyt12/notGT)**: broadcast titles pack for OBS (NodeCG fork), corporate style, fullscreen graphics
 - **Streaming platform**: Next.js + Prisma + PostgreSQL site for live streams, with TS microservices for archiving and validation, all in Docker Compose
 - **GPU transcoding node**: ffmpeg + NVENC in Docker, GPU monitoring with dcgm-exporter
-- **[vMixRTC](https://github.com/fursyt12/vMixRTC)**: Rust tool for vMix
+- **[vMixRTC](https://github.com/fursyt12/vMixRTC)**: Customizable controller for vMix (reworked [vMixUTC](https://github.com/elgarf/vMixUTC), but on Rust)
 
 ### 🎛️ Control & integrations
 - **[companion-module-aimp-audioplayer](https://github.com/bitfocus/companion-module-aimp-audioplayer)**: Bitfocus Companion module to control AIMP
