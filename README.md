@@ -47,7 +47,7 @@ Roughly in order of how well I know them:
 - **[vMixRTC](https://github.com/fursyt12/vMixRTC)**: Rust tool for vMix
 
 ### 🎛️ Control & integrations
-- **[companion-module-aimp-audioplayer](https://github.com/fursyt12/companion-module-aimp-audioplayer)**: Bitfocus Companion module to control AIMP
+- **[companion-module-aimp-audioplayer](https://github.com/bitfocus/companion-module-aimp-audioplayer)**: Bitfocus Companion module to control AIMP
 - **[AIMP-HTTP-Remote-Control-Server](https://github.com/fursyt12/AIMP-HTTP-Remote-Control-Server)**: AIMP plugin with an HTTP remote API
 
 ### 🔧 Infrastructure
