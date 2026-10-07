@@ -10,7 +10,7 @@
 ## 👨‍💻 About me
 
 - 🎥 ~2.5 years in **video / live streaming**: ffmpeg pipelines, GPU transcoding, archiving and validation services
-- 🎚️ Live audio engineer: mixing, compression, stream & record
+- 🎚️ Live stream infrastructure: piplines, obs, analyze logs and record
 - 🛠️ Almost 3 years in IT overall, from infrastructure to full-stack tooling
 - ⚙️ I care about how things work under the hood, from ffmpeg flags to GPU pipelines, and use AI to speed up the boring parts
   
